@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "name": "Red Shoes",
+    "description": "Comfortable running shoes",
+    "price": 450,
+    "image": "https://picsum.photos/200"
+  },
+  {
+    "id": 2,
+    "name": "Blue Jacket",
+    "description": "Winter waterproof jacket",
+    "price": 800,
+    "image": "https://picsum.photos/201"
+  }
+]
